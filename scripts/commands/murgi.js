@@ -1,5 +1,5 @@
 module.exports.config = {
-	name: "murgi2",
+	name: "$murgi2",
 	version: "1.0.2",
 	permission: 2,
 	credits: "nayan",
